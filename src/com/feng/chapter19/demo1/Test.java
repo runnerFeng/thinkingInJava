@@ -1,7 +1,7 @@
 package com.feng.chapter19.demo1;
 
 /**
- * Desc:
+ * Desc:protected关键字探索
  * Created by jinx on 2017/2/19.
  */
 public class Test extends User {
