@@ -1,7 +1,7 @@
 package com.feng.chapter7.demo2;
 
 /**
- * Desc:final关键字修饰变量（对象引用）测试
+ * Desc:final关键字修饰变量（对象引用）测试 p141
  * Created by jinx on 2017/9/28.
  */
 public class FinalData {
