@@ -6,7 +6,7 @@ import java.util.Random;
  * Desc:
  * Created by jinx on 2017/2/12.
  */
-public class test {
+public class Test {
     public static void main(String[] args) {
 //        util.Random()随机数
         Random random = new Random();

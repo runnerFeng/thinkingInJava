@@ -1,5 +1,4 @@
 package com.feng.chapter19.demo1;
-
 /**
  * Desc:protected关键字探索
  * Created by jinx on 2017/2/19.

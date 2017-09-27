@@ -1,4 +1,4 @@
-package com.feng.demo1;
+package demo1;
 
 /**
  * Desc:

@@ -1,4 +1,4 @@
-package com.feng.chapter16.demo2;
+package main.java.com.feng.chapter16.demo2;
 
 import java.util.Random;
 
