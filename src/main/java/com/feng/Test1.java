@@ -9,7 +9,7 @@ public class Test1 {
     private String s = "Test1";
 
     public void test() {
-        System.out.println("method Test");
+        System.out.println("method Gizmo");
     }
 
     @Override

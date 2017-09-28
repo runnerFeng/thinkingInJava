@@ -14,7 +14,7 @@ public class Test1 {
 
 //        char a = 0;
 //        System.out.println(a);
-//        System.out.println(Test());
+//        System.out.println(Gizmo());
 
         System.getProperties().list(System.out);
         System.out.println(System.getProperty("user.name"));
