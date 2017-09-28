@@ -1,4 +1,4 @@
-package main.java.com.feng.chapter16.demo1;
+package com.feng.chapter16.demo1;
 
 /**
  * Desc:数组是对象
