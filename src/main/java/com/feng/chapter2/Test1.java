@@ -16,6 +16,7 @@ public class Test1 {
 //        System.out.println(a);
 //        System.out.println(Gizmo());
 
+        //获取系统属性
         System.getProperties().list(System.out);
         System.out.println(System.getProperty("user.name"));
     }
