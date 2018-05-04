@@ -9,5 +9,6 @@ public class Test {
     public static void main(String[] args) {
         Bird bird = new Bird(1);
         Bird bird1 = new Bird(1.0);
+//        Bird bird2 = new Bird();
     }
 }
