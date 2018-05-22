@@ -17,7 +17,10 @@
  *      12.Queue:off()方法将一个元素插入队尾，peek()和element()在不移除元素的情况向返回队头，peek()返回null element()方法则抛出异常，poll()和remove()移除并返回队头，但poll()当队列为空时返回
  *         null而remove()方法则抛出异常。
  *      13.PriorityQueue:优先级队列。
- *      14.
+ *      14.容器不能持有基本类型，但是自动包装机制会仔细的执行基本类型到容器所持有的包装类型之间的双向转换。
+ *      15.各种Queue及栈的行为由LinkedList提供支持。
+ *      16.Map和Collection之间唯一的重叠就是Map可以使用entrySet()和values()方法来产生Collection。
+ *      17.容器类库一直以来都是设计难题，你应该从中看到中庸之道。
  *
  */
 package com.feng.chapter11;
