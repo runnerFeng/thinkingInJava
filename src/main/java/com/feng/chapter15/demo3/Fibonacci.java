@@ -28,4 +28,5 @@ public class Fibonacci implements Generator<Integer> {
         }
         return fib(n - 2) + fib(n - 1);
     }
+
 }
