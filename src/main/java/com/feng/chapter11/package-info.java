@@ -18,9 +18,10 @@
  *         null而remove()方法则抛出异常。
  *      13.PriorityQueue:优先级队列。
  *      14.容器不能持有基本类型，但是自动包装机制会仔细的执行基本类型到容器所持有的包装类型之间的双向转换。
- *      15.各种Queue及栈的行为由LinkedList提供支持。
- *      16.Map和Collection之间唯一的重叠就是Map可以使用entrySet()和values()方法来产生Collection。
- *      17.容器类库一直以来都是设计难题，你应该从中看到中庸之道。
+ *      15.如果我们编写的方法接受一个Collection，那么该方法就可以应用于任何实现了Collection的类-这也就使得一个新类可以选择去实现Collection接口，以便我的方法可以使用它。
+ *      16.各种Queue及栈的行为由LinkedList提供支持。
+ *      17.Map和Collection之间唯一的重叠就是Map可以使用entrySet()和values()方法来产生Collection。
+ *      18.容器类库一直以来都是设计难题，你应该从中看到中庸之道。
  *
  */
 package com.feng.chapter11;
