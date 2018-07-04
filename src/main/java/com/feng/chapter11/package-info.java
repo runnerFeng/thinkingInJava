@@ -14,7 +14,7 @@
  *      10.1.LinkList的getFirst()和element()方法都返回列表的第一个元素但在集合为空时抛出NoSuchElementException异常，而peek()方法当列表为空时则返回null。
  *      10.2.remove()和removeAll()一样移除并返回列表的头，而在列表为空时抛出NoSuchElementException异常，而pop()方法在列表为空时返回null。
  *      11.TreeSet将元素存在红黑树数据结构中，而HashSet使用的是散列函数。
- *      12.Queue:off()方法将一个元素插入队尾，peek()和element()在不移除元素的情况向返回队头，peek()返回null element()方法则抛出异常，poll()和remove()移除并返回队头，但poll()当队列为空时返回
+ *      12.Queue:off()方法将一个元素插入队尾，peek()和element()在不移除元素的情况下返回队头，peek()返回null element()方法则抛出异常，poll()和remove()移除并返回队头，但poll()当队列为空时返回
  *         null而remove()方法则抛出异常。
  *      13.PriorityQueue:优先级队列。
  *      14.容器不能持有基本类型，但是自动包装机制会仔细的执行基本类型到容器所持有的包装类型之间的双向转换。
