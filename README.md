@@ -1,2 +1,23 @@
 # thinkingInJava
-thinking in java learning
+- chapter1  对象导论
+- chapter2  一切都是对象
+- chapter3  操作符
+- chapter4  控制执行流程
+- chapter5  初始化与清理
+- chapter6  访问权限控制
+- chapter7  服用类
+- chapter8  多态
+- chapter9  接口
+- chapter10 内部类
+- chapter11 持有对象
+- chapter12 通过异常处理错误
+- chapter13 字符串
+- chapter14 类型信息
+- chapter15 泛型
+- chapter16 数组
+- chapter17 容器深入研究
+- chapter18 java I/O系统
+- chapter19 枚举类型
+- chapter20 注解
+- chapter21 并发
+- chapter22 图形化用户界面
