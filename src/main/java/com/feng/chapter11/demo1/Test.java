@@ -3,7 +3,7 @@ package com.feng.chapter11.demo1;
 import java.util.*;
 
 /**
- * Desc:
+ * Desc:Arrays.asList() Collections.addAll()
  * Created by jinx on 2017/10/23.
  */
 public class Test {
@@ -26,6 +26,7 @@ public class Test {
 //        Collectors
 
         //throw UnsupportedOperationException,because the underlying array cannot be resized.
+        // 底层仍然是数组，对修改操作意味着修改数组长度，故不支持
         List<Integer> list = Arrays.asList(11,12,13);
         list.add(14);
         System.out.println(list);
