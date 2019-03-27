@@ -1,7 +1,6 @@
 package com.feng.chapter11;
 
-import java.util.LinkedList;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * Desc:
@@ -11,5 +10,8 @@ public class Test {
     public static void main(String[] args) {
 //        Stack
 //        LinkedList
+//        Queue
+//        Map
+//        LinkedHashMap
     }
 }
